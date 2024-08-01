@@ -1,13 +1,14 @@
 # Prueba técnica backend
 
 ### Endpoints
- books:   {
+
+  books:   {
                 get: '/books',
                 post: '/books',
                 getOne: '/books/:id',
                 delete: '/books/:id',
           },
-authors: {
+  authors: {
                 get: '/authors',
                 post: '/authors',
                 getOne: '/authors/:id',
